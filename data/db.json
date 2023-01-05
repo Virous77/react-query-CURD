@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "mohit kumar",
+      "details": "mohit what man cool  yes",
+      "id": 11
+    },
+    {
+      "name": "sani kumar",
+      "details": "sani what you are man cool way what woow",
+      "id": 13
+    },
+    {
+      "name": "manish kumar singh",
+      "details": "I'll say keep the hustle always on.",
+      "id": 14
+    }
+  ]
+}
